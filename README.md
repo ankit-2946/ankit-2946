@@ -1,6 +1,6 @@
 # Hey fellow coders, I am Ankit! 😀
 
-## I am a Graphic Designer & Developer at EKCS Express Pvt. Ltd.! 
+## I am a Graphic Designer & Front-End Developer at EKCS Express Pvt. Ltd.! 
 
 <div>
     <ul>
@@ -8,7 +8,7 @@
           I am a Graphic Designer working with In-design, Photoshop and Citirix. 💻
         </li>
         <li style="font-size:18px">
-            I am a Front end developer working with HTML, CSS, JS. 💻
+            I am a Front-End developer working with HTML, CSS, JS. 💻
         </li>
     </ul>
 </div>
