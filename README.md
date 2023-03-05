@@ -1,14 +1,3 @@
-CodingZen
-EKCS PHP & JS
-Readme template
-Ankit Pal
-•
-Yesterday
-
-README.md
-Text
-Class comments
-
 # Hey fellow coders, I am Ankit! 😀
 
 ## I am a Graphic Designer & Developer at EKCS Express Pvt. Ltd.! 
@@ -59,16 +48,9 @@ Class comments
 
 <a href="https://github.com/ankit-2946">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-2946&theme=neon-dark&hide_border=true"/>
-</a>
-    
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ankit-2946&theme=react" width = "97.5%">
-</p>
-    
+</a>    
 
 <!---
 ankit-2946/ankit-2946 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-README.md
-Displaying README.md.
